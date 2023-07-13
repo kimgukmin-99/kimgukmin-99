@@ -3,8 +3,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gukmin&show_icons=true&theme=radical) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rnrwk8303)](https://solved.ac/rnrwk8303)
 
 <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgukmin-99&layout=Demon&theme=tokyonight) <img src="https://img.shields.io/badge/python-3776AB?logo=Python"> <img src="https://img.shields.io/badge/.Net-512BD4?logo=.Net">
+<img src="https://img.shields.io/badge/python-3776AB?logo=Python"> <img src="https://img.shields.io/badge/.Net-512BD4?logo=.Net">
+<img src="https://img.shields.io/badge/python-3776AB?logo=Java">
 
 
 
