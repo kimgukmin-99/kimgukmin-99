@@ -4,7 +4,8 @@
 
 <hr>
 <img src="https://img.shields.io/badge/python-3776AB?logo=Python"> <img src="https://img.shields.io/badge/.Net-512BD4?logo=.Net">
-<img src="https://img.shields.io/badge/python-3776AB?logo=Java">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
 
 
 
